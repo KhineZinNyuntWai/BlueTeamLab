@@ -1,5 +1,3 @@
-#### The Planet's Prestige
-
 #### Maliciou PowerShell Analysis
 
 > file : ps_script.ps
