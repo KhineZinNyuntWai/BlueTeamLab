@@ -73,8 +73,9 @@ Filter => dns
 ##### 8) Decrypt the Tender document and submit the flag
 
 ```
-
+decrypt by Tesladecrypt.Download and Install. 
+=> tesladecrypt.exe -d encyrpted.file
 ```
 
-**Answer:** 
+**Answer:**  BTLO-T3nd3r-Fl@g
 
